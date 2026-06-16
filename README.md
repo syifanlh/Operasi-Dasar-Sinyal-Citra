@@ -24,10 +24,10 @@ Operasi-Dasar-Sinyal-Citra/
 ├── images/
 │     └── Kel2_Malioboro2.jpg
 ├── README.md
-├── notebook/
-│     └── operasi_sinyal_citra.ipynb
 ├── report/
 │     └── laporan.pdf
+├── notebook/
+│     └── operasi_sinyal_citra.ipynb
 └── requirements.txt
 ```
 
