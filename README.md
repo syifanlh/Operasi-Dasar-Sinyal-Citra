@@ -21,14 +21,13 @@ Project ini bertujuan untuk mengimplementasikan operasi dasar pada sinyal 1D dan
 
 ```
 Operasi-Dasar-Sinyal-Citra/
-│
+├── images/
+│     └── Kel2_Malioboro2.jpg
+├── README.md
 ├── notebook/
 │     └── operasi_sinyal_citra.ipynb
-├── images/
-│     └── foto.jpg
 ├── report/
 │     └── laporan.pdf
-├── README.md
 └── requirements.txt
 ```
 
